@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/prokhor/Desktop/study/4 семестр/backend/my-aspnet-project/my-aspnet-project/my-aspnet-project.csproj",
+      "projectUniqueName": "/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/my-aspnet-project.csproj",
       "projectName": "my-aspnet-project",
-      "projectPath": "/Users/prokhor/Desktop/study/4 семестр/backend/my-aspnet-project/my-aspnet-project/my-aspnet-project.csproj",
+      "projectPath": "/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/my-aspnet-project.csproj",
       "packagesPath": "/Users/prokhor/.nuget/packages/",
-      "outputPath": "/Users/prokhor/Desktop/study/4 семестр/backend/my-aspnet-project/my-aspnet-project/obj/",
+      "outputPath": "/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/prokhor/.nuget/NuGet/NuGet.Config"
