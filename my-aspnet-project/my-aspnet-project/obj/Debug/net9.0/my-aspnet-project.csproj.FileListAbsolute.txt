@@ -95,3 +95,10 @@
 /Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/obj/Debug/net9.0/my-aspnet-project.pdb
 /Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/obj/Debug/net9.0/my-aspnet-project.genruntimeconfig.cache
 /Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/obj/Debug/net9.0/ref/my-aspnet-project.dll
+/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/obj/Debug/net9.0/my-aspnet-project.csproj.AssemblyReference.cache
+/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/obj/Debug/net9.0/my-aspnet-project.MvcApplicationPartsAssemblyInfo.cs
+/Users/prokhor/Desktop/study/4 semester/backend/my-aspnet-project/my-aspnet-project/obj/Debug/net9.0/my-aspne.8123365E.Up2Date
