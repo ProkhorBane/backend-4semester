@@ -1,0 +1,55 @@
+/Users/prokhor/lab7/MiddlewareDemo/bin/Debug/net9.0/appsettings.Development.json
+/Users/prokhor/lab7/MiddlewareDemo/bin/Debug/net9.0/appsettings.json
+/Users/prokhor/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.staticwebassets.endpoints.json
+/Users/prokhor/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo
+/Users/prokhor/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.deps.json
+/Users/prokhor/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.runtimeconfig.json
+/Users/prokhor/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.dll
+/Users/prokhor/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.pdb
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.AssemblyInfoInputs.cache
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.AssemblyInfo.cs
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.csproj.CoreCompileInputs.cache
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.MvcApplicationPartsAssemblyInfo.cache
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/scopedcss/bundle/MiddlewareDemo.styles.css
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/staticwebassets.build.json
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/staticwebassets.development.json
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.dll
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/refint/MiddlewareDemo.dll
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.pdb
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.genruntimeconfig.cache
+/Users/prokhor/lab7/MiddlewareDemo/obj/Debug/net9.0/ref/MiddlewareDemo.dll
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/bin/Debug/net9.0/appsettings.Development.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/bin/Debug/net9.0/appsettings.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.staticwebassets.endpoints.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.deps.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.runtimeconfig.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.dll
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/bin/Debug/net9.0/MiddlewareDemo.pdb
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.AssemblyInfoInputs.cache
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.AssemblyInfo.cs
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.csproj.CoreCompileInputs.cache
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.MvcApplicationPartsAssemblyInfo.cache
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.sourcelink.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/scopedcss/bundle/MiddlewareDemo.styles.css
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/staticwebassets.build.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/staticwebassets.development.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.dll
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/refint/MiddlewareDemo.dll
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.pdb
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/MiddlewareDemo.genruntimeconfig.cache
+/Users/prokhor/Desktop/study/4 semester/backend/lab7/MiddlewareDemo/obj/Debug/net9.0/ref/MiddlewareDemo.dll
